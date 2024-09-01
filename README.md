@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **AODCIPER** project addresses the global challenge of inefficient waste management and rising contamination rates in recycled materials. By integrating advanced machine learning (ML) and high-speed cameras with image recognition technology, this system aims to significantly improve the accuracy of waste sorting, surpassing manual methods by 80-90%. The result is enhanced efficiency in waste management and higher-quality recycled materials, contributing to environmental sustainability.
+The **Smart Recycling** project addresses the global challenge of inefficient waste management and rising contamination rates in recycled materials. By integrating advanced machine learning (ML) and high-speed cameras with image recognition technology, this system aims to significantly improve the accuracy of waste sorting, surpassing manual methods by 80-90%. The result is enhanced efficiency in waste management and higher-quality recycled materials, contributing to environmental sustainability.
 
 ## Features
 
