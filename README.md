@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-The **Smart Recycling** project addresses the global challenge of inefficient waste management and rising contamination rates in recycled materials. By integrating advanced machine learning (ML) and high-speed cameras with image recognition technology, this system aims to significantly improve the accuracy of waste sorting, surpassing manual methods by 80-90%. The result is enhanced efficiency in waste management and higher-quality recycled materials, contributing to environmental sustainability.
+The **Smart Recycling** project addresses the global challenge of inefficient waste management and rising contamination rates in recycled materials. By integrating advanced machine learning (ML) and high-speed cameras with image recognition technology, this system aims to improve the accuracy of waste sorting significantly, surpassing manual methods by 80-90%. The result is enhanced efficiency in waste management and higher-quality recycled materials, contributing to environmental sustainability.
+
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/60d939a7-c775-426b-8177-868bb8643177">
 
 ## Features
 
@@ -10,7 +12,7 @@ The **Smart Recycling** project addresses the global challenge of inefficient wa
 - **Data Recording & Reporting**: Continuously monitors sorting processes and generates detailed reports.
 - **Conveyor Belt System**: Robust infrastructure for effective material movement.
 - **Intelligent Camera Network**: Captures high-resolution images for analysis.
-- **Multi-Material Sorting**: Capable of sorting plastic, paper, metal, glass, and cardboard.
+- **Multi-Material Sorting**: Can sort plastic, paper, metal, glass, and cardboard.
 
 ## Installation
 
