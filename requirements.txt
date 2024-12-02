@@ -1,0 +1,12 @@
+opencv-python
+ultralytics
+numpy
+scipy
+reportlab
+matplotlib
+django
+shutil
+json
+collections
+datetime
+threading
