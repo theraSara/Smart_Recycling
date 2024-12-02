@@ -28,4 +28,8 @@ The **Smart Recycling** project addresses the global challenge of inefficient wa
    ```bash
    pip install -r requirements.txt
 
+## YOLOv5 vs. YOLOv8
+![image](https://github.com/user-attachments/assets/53a390b7-4183-4ecf-8dfe-0e197bd8e6b5)
+
+
    
